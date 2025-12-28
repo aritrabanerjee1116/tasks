@@ -6,11 +6,13 @@ import Task4 from '../pages/task4'
 import Task5 from '../pages/task5'
 import Task6 from '../pages/Task6'
 import Home from '../pages/Home'
+import Header from '../layout/Header'
 
 
 const Routing = () => {
   return (
    <Router>
+    <Header/>
         <Routes>
             <Route path='/' element={<Home/>}/> 
             <Route path="/task-1" element={<Task1/>}/>
