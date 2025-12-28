@@ -1,7 +1,7 @@
 
 .navbar {
     background-color: #ffffff;
-    padding: 14px 0;
+    padding: 15px 0;
     border-bottom: 1px solid #e0e0e0;
 }
 
@@ -35,7 +35,7 @@
 }
 
 .nav-links a:hover {
-    color: #000;
+    color: #cc3918;
 }
 
 .nav-links a:hover::after {
