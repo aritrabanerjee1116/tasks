@@ -1,7 +1,7 @@
 import React from 'react'
 import '../style/style.css'
 import { Link } from 'react-router-dom'
-import Task1 from '../pages/Task1'
+
 
 const Header = () => {
     return (
